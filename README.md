@@ -3,4 +3,4 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/7nyfiool71v5wc7g?svg=true)](https://ci.appveyor.com/project/GalantsevIlya/ahj-testing-2)
 
-https://galantsevilya.github.io/Ahg-testing-2/
+https://galantsevilya.github.io/Ahj-testing-2/
